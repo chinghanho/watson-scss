@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'watson/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "watson"
+  spec.name          = "watson-scss"
   spec.version       = Watson::VERSION
   spec.authors       = ["CHH"]
   spec.email         = ["chh@chh.tw"]
